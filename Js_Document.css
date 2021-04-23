@@ -1,0 +1,39 @@
+#main-doc {
+  position: relative;
+  margin-top: 350px;
+}
+.main-section {
+  
+}
+nav {
+  display: block;
+}
+#navbar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-bottom: 2px solid;
+  border-right: 3px solid;
+  border-left: 2px solid;
+  border-top: 2px solid;
+  width: 100%;
+}
+.nav-link {
+  display: block;
+  padding: 10px 10px 15px 10px;
+  border-top: 1px solid;
+  text-decoration: none;
+  color: gray;
+  font-size: 17px;
+}
+.head-fix {
+  font-size: 30px;
+  text-align: center;
+}
+.no-dot {
+  list-style-type: none;
+}
+#nav-head {
+  text-align: center;
+  font-size: 30px;
+}
